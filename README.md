@@ -2,6 +2,8 @@
 
 Github action to upload and run a Kubeflow pipeline to KubeFlow workspace.
 
+This repository has been archived due to lack of engineering investment, but may still be useful.  Also see equivalent [Azure DevOps Marketplace Task](https://github.com/microsoft/kubeflow-pipeline-azdo-task) and [Kubemlops repository](https://github.com/microsoft/kubemlops).
+
 The following is an example of uploading a new pipeline, creating a new experiment, and running/monitoring the new pipeline on that experiment with this action:
 
 ```yaml
